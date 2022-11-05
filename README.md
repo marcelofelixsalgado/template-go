@@ -21,7 +21,7 @@ go run
 
 To execute the unit tests:
 ```
-go test -v
+go test -v ./...
 ```
 
 To build a local executable:
